@@ -1,11 +1,13 @@
-# Insights from Industry: Projects to Bridge the Gap
+# Insights from Industry
+>Projects to Bridge the Gap
+
 _Joseph Maxwell . . . CSTA 2025 . . . [Session Link](https://conference.csteachers.org/event/3d53ee2e-79b8-48ae-bae2-d8a670da4b74/agenda?session=c4786222-b65d-4764-b463-2f74891e918d&shareLink=true)_
 
 ## Opening Discussion
 [Click here to fill out our opening discussion form!](https://forms.office.com/r/0KeGHUgrSg)
 
 ## Presentation Slides
-[Click here to access the slide deck for this session.](https://docs.google.com/presentation/d/1MptvHD1ItEi3oO5d4I2jX862irYrU5DvkjR7ordOz5M/edit?usp=sharing)
+[Click here to access the slide deck for this session.](https://docs.google.com/presentation/d/1swran9DEgRweEjRCqZy858ZWYEgB_o5GhZsMJkZbU_8/edit?usp=sharing)
 
 ## Project Ideation Activity
 [Click here for the Project Ideation Activity description.](ProjectIdeation.md)
