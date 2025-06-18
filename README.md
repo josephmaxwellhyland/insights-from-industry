@@ -1,7 +1,5 @@
 # Insights from Industry
->Projects to Bridge the Gap
-
-_Joseph Maxwell . . . CSTA 2025 . . . [Session Link](https://conference.csteachers.org/event/3d53ee2e-79b8-48ae-bae2-d8a670da4b74/agenda?session=c4786222-b65d-4764-b463-2f74891e918d&shareLink=true)_
+_Projects to Bridge the Gap_
 
 ## Opening Discussion
 [Click here to fill out our opening discussion form!](https://forms.office.com/r/0KeGHUgrSg)
